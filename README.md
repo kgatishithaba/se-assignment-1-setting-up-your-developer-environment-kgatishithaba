@@ -11,15 +11,27 @@ This assignment aims to familiarize you with the tools and configurations necess
 #Tasks:
 
 1. Select Your Operating System (OS):
-   Choose an operating system that best suits your preferences and project requirements. Download and Install Windows 11. https://www.microsoft.com/software-download/windows11
+   Choose an operating system that best suits your preferences and project requirements. Download and Install Windows 11. https://www.microsoft.com/software-download/windows11 
+
+   ![alt text](windows.jpg) 
+   The Challenges that i have encountered are: finding the version of the installed operating system on my machine, so i used the command prompt instead of the git bash.
 
 2. Install a Text Editor or Integrated Development Environment (IDE):
    Select and install a text editor or IDE suitable for your programming languages and workflow. Download and Install Visual Studio Code. https://code.visualstudio.com/Download
+
+![alt text](<vs code.jpg>)
+
+
 3. Set Up Version Control System:
    Install Git and configure it on your local machine. Create a GitHub account for hosting your repositories. Initialize a Git repository for your project and make your first commit. https://github.com
 
+   ![alt text](<github account.jpg>)
+   ![alt text](git.jpg)
+
 4. Install Necessary Programming Languages and Runtimes:
   Instal Python from http://wwww.python.org programming language required for your project and install their respective compilers, interpreters, or runtimes. Ensure you have the necessary tools to build and execute your code.
+
+  ![alt text](python.jpg)
 
 5. Install Package Managers:
    If applicable, install package managers like pip (Python).
@@ -27,11 +39,16 @@ This assignment aims to familiarize you with the tools and configurations necess
 6. Configure a Database (MySQL):
    Download and install MySQL database. https://dev.mysql.com/downloads/windows/installer/5.7.html
 
+   ![alt text](<mysql.jpg>)
+   The Challenges that i have encountered are: not being able to download both the server and workbench although they are configured
+
 7. Set Up Development Environments and Virtualization (Optional):
    Consider using virtualization tools like Docker or virtual machines to isolate project dependencies and ensure consistent environments across different machines.
 
 8. Explore Extensions and Plugins:
    Explore available extensions, plugins, and add-ons for your chosen text editor or IDE to enhance functionality, such as syntax highlighting, linting, code formatting, and version control integration.
+
+   ![alt text](<extensions on vs code.jpg>)
 
 9. Document Your Setup:
     Create a comprehensive document outlining the steps you've taken to set up your developer environment. Include any configurations, customizations, or troubleshooting steps encountered during the process. 
